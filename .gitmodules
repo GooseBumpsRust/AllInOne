@@ -1,0 +1,6 @@
+[submodule "GooseBumpsBackend"]
+	path = GooseBumpsBackend
+	url = https://github.com/GooseBumpsRust/GooseBumpsBackend.git
+[submodule "GooseBumpsFrontend"]
+	path = GooseBumpsFrontend
+	url = https://github.com/GooseBumpsRust/GooseBumpsFrontend.git
