@@ -22,7 +22,7 @@ cargo build
 
 When its builded you can start with `cargo run`.
 
-The backends swagger ui should run now on [http://localhost:8000](http://localhost:8000)
+The backends swagger ui should run now on [http://localhost:8000/swagger-ui](http://localhost:8000/swagger-ui)
 
 ## Frontend
 
